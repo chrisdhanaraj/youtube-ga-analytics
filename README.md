@@ -11,4 +11,6 @@ jQuery
 
 ## Syntax
 
-    <iframe width="560" height="315" src="//www.youtube.com/embed/k7Ilpnhr0kM" frameborder="0” allowfullscreen data-title=“TITLE"></iframe>
+```
+<iframe width="560" height="315" src="//www.youtube.com/embed/k7Ilpnhr0kM" frameborder="0” allowfullscreen data-title=“TITLE"></iframe>
+```
