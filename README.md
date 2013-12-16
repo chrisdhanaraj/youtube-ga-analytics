@@ -1,7 +1,7 @@
 youtube-ga-analytics
 ====================
 
-A script to auto-magically track your YouTube videos. The original concept comes from lunametrics at http://www.lunametrics.com/blog/2012/10/22/automatically-track-youtube-videos-events-google-analytics/#sr=g&m=o&cp=or&ct=-tmc&st=(opu%20qspwjefe)&ts=1386701498, I've just updated the logic/pattern. I've also added in a data-title requirement for the iFrame embed  - I really don't like having the URL's as the title in Google Analytics. Google plz expose title?
+A script to auto-magically track your YouTube videos. The original concept comes from lunametrics at http://www.lunametrics.com/blog/2012/10/22/automatically-track-youtube-videos-events-google-analytics, I've just updated the logic/pattern. I've also added in a data-title requirement for the iFrame embed  - I really don't like having the URL's as the title in Google Analytics. Google plz expose title?
 
 This script is still for the older ga.js, not analytics.js. 
 
