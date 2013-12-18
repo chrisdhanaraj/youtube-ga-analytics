@@ -1,0 +1,26 @@
+{
+  "name": "youtube-ga-analytics",
+  "version": "1.0.1",
+  "homepage": "https://github.com/chrisdhanaraj/youtube-ga-analytics",
+  "authors": [
+    "adhanaraj@gmail.com"
+  ],
+  "description": "Automatically track embedded YouTube videos with Google Analytics. Two versions included, read the README.",
+  "main": "youtube.js",
+  "keywords": [
+    "youtube",
+    "google",
+    "analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.10.2"
+  }
+}
